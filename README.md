@@ -1,2 +1,3 @@
-# Andre_Portfolio
-Andre Portfolio
+# Andre Portfolio
+# Project 1
+# Project 2
