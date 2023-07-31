@@ -1,16 +1,16 @@
-#Projects Portfolio - Mechanical Engineering and Data Science
+# Projects Portfolio - Mechanical Engineering and Data Science
 
 Welcome to my projects portfolio! I am a highly motivated individual with a strong background in Mechanical Engineering and a passion for Data Science and Advanced Analytics. Throughout my academic journey, I have acquired diverse skills that bridge the gap between engineering principles and cutting-edge data-driven technologies.
 
-#Mechanical Engineering Projects:
+## Mechanical Engineering Projects:
 
 In my Bachelor's program in Mechanical Engineering, I tackled various projects that honed my problem-solving abilities and analytical mindset. I delved into areas such as finite element analysis, thermodynamics, fluid mechanics, and design optimization. These projects not only challenged me to develop innovative solutions but also taught me how to work collaboratively in a team.
 
-#Data Science and Advanced Analytics:
+## Data Science and Advanced Analytics:
 
 Currently pursuing a Master's in Data Science and Advanced Analytics, I am immersing myself in the world of data. I have gained expertise in machine learning, statistical analysis, data visualization, and big data processing. Leveraging Python, R, and other tools, I am exploring the realm of predictive modeling, natural language processing, and more.
 
-#Portfolio Highlights:
+## Portfolio Highlights:
 
 1. Heart Disease Classifier using Logistic Regression: Implemented a machine learning model to predict the presence or absence of heart disease in a given sample
 
