@@ -1,4 +1,3 @@
 # Andre Portfolio
-andre
-# Project 1
-# Project 2
+andre LLopes
+
