@@ -1,4 +1,4 @@
-# (Project 1: Heart Disease Classifier using Logistic Regression)[https://github.com/andre10112001/Project-1---Heart-Failure-Predict/tree/main]
+# [Project 1: Heart Disease Classifier using Logistic Regression](https://github.com/andre10112001/Project-1---Heart-Failure-Predict/tree/main)
 
 This project implements a Logistic Regression model in Jupyter Notebook to predict the presence or absence of heart disease in a given sample. The model is trained using a dataset sourced from Kaggle, which contains various medical attributes for each sample, along with a binary target variable indicating the presence (1) or absence (0) of heart disease.
 
